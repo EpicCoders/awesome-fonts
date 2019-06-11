@@ -6,7 +6,7 @@ A curated list of awesome fonts free &amp; premium.
 - 
 
 ## Financial fonts
-- (Inter font family)[https://rsms.me/inter/] - extremly well made font for all kinds of applications but expecially well made for financial ones. 
+- [Inter font family](https://rsms.me/inter/) - extremly well made font for all kinds of applications but expecially well made for financial ones. 
 
 ## Colored fonts
 - [Epic Colorfont](https://www.epicpxls.com/items/epic-colorfont) - font that can be used in any editing software and it's colored by default. 
